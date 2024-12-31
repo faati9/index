@@ -264,7 +264,7 @@ li:hover{
 .service{
    
     text-align: center;
-    margin-top: 8%;
+    margin-top: 10px;
     
 
 }
@@ -387,7 +387,7 @@ li:hover{
     /* transform: rotate(30deg); */
 }
 .section-four{
-    margin-top: 8%;
+    margin-top: 12%;
 }
 .featured{
 
@@ -403,7 +403,7 @@ text-align: center;
     display: grid;
     grid-template-columns: 290px 290px 290px 290px;
     gap: 20px;
-    margin-left: 55px;
+    margin-left: 120px;
     margin-top: 5%;
     
 }
